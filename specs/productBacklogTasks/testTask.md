@@ -1,7 +1,7 @@
 # template task file
-Free descritpion of task. 
+Free descritpion of task. This is big task, of the product backlog. 
 Here also sprint related task de-composition. Meaning tasks devided to actionable tasks to be implemented as source code files and/or detailed configuration and installation documents. 
-
+[test sub task name](..\sprintBacklogTasks\sprintTestTask.md), for any sprint. 
 # general planning on how to achieve proper document structure
 Need to choose if making documents under this folder is appropriate or not. 
 Initially we will be having folder for all sprint backlog tasks, as a total
