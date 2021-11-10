@@ -25,7 +25,7 @@ If you want to learn more about creating good readme files then refer the follow
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
-This is project "Strawberry fields" with which we exercise data analytics software design and implementation. It is done for real business case. It is going to target most pressing requirements related to "pick your own" business. All tasks will be rigorously implemented towards this target. No compromises regarding to industry conventions are allowed. Product Owner will controll this. 
+This is project "Strawberry fields" with which we exercise data analytics software design and implementation. It is done for real business case. It is going to target most pressing requirements related to "pick your own" business. Tasks will be planned and implemented by the team towards this target. Software Industry conventions are being followed. Product Owner will controll this. 
 
 If and when teams feels that something should be changed in this repository structure, or there is need to discuss on this structure, then it will be discussed/changed. 
 
