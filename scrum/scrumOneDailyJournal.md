@@ -10,3 +10,9 @@ Andreas : Works for me
 Tomo: Alright
 Tan
 Augusts
+
+# Week 1 Thursday
+Andreas : Discussed progress with UML model diagram, will perform pull request from GitHub and meet with team about the main project document and reported no problems so far. 
+Tomo: Alright
+Tan
+Augusts
