@@ -15,6 +15,7 @@ Altti
 Hien: Brainstorm idea what should do with the data sources
 Hocine   
 Altti   
+Pekka: What you did yesteday. what you will do next, no problems. 
 # week 1 Friday
 Hien   
 Hocine   
