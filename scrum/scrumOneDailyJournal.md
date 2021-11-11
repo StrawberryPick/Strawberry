@@ -16,3 +16,9 @@ Andreas : Discussed progress with UML model diagram, will perform pull request f
 Tomo: Alright
 Tan
 Augusts
+
+# Week 1 Friday
+Andreas:
+Tomo:
+Tan:
+Augusts:
