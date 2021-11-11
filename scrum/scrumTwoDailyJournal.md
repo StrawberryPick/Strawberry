@@ -12,7 +12,7 @@ Hien
 Hocine   
 Altti   
 # week 1 Thursday
-Hien   
+Hien: Brainstorm idea what should do with the data sources
 Hocine   
 Altti   
 # week 1 Friday
