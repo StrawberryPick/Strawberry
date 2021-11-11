@@ -12,9 +12,12 @@ Tan: The same as other
 Augusts
 
 # Week 1 Thursday
-Andreas : Discussed progress with UML model diagram, will perform pull request from GitHub and meet with team about the main project document and reported no problems so far. 
+Andreas : Discussed progress with UML model diagram, will perform pull request from GitHub and meet with team about the main project document and reported no problems so far.
+
 Tomo: We made short notes on the latest task relted to the UML project. Later on, we got more familiar with GitHub Traditional and GitHub New(Beat).
+
 Tan: I did check the Github and tried to clone it to my computer, then will dicuss with team members about the group task
+
 Augusts
 
 # Week 1 Friday
