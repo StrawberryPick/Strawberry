@@ -6,7 +6,7 @@ Everyone in team will write shortly here answer to Daily Scrum Meeting questions
 Every high level heading is named according to day and week. 
 
 # Week 1 Wednesday
-Andreas
+Andreas : Works for me
 Tomo
 Tan
 Augusts
