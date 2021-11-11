@@ -5,6 +5,8 @@ Everyone in team will write shortly here answer to Daily Scrum Meeting questions
 * Any obstacles you or your team can not overcome
 Every high level heading is named according to day and week. 
 
+Pekka Was Here
+
 # Week 1 Wednesday
 Hien
 Hocine
