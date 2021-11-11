@@ -7,6 +7,6 @@ Every high level heading is named according to day and week.
 
 # Week 1 Wednesday
 Andreas : Works for me
-Tomo
+Tomo: Alright
 Tan
 Augusts
