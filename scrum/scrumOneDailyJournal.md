@@ -18,7 +18,7 @@ Tan: I did check the Github and tried to clone it to my computer, then will dicu
 Augusts
 
 # Week 1 Friday
-Andreas:
+Andreas: Andreas is pushing finally
 Tomo:
 Tan:
 Augusts:
