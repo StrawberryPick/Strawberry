@@ -1,0 +1,144 @@
+<diagram program="umletino" version="14.3.0"><zoom_level>10</zoom_level><element><id>UMLUseCase</id><coordinates><x>400</x><y>409</y><w>120</w><h>110</h></coordinates><panel_attributes>**Crops**
+**Amount**
+
+**FINISH**
+bg=red
+fg=white</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>470</x><y>239</y><w>120</w><h>120</h></coordinates><panel_attributes>**Data**
+**Sources**
+
+**START**
+bg=black
+fg=white</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>600</x><y>409</y><w>120</w><h>110</h></coordinates><panel_attributes>**Data**
+**Selection**
+bg=blue
+fg=white</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>500</x><y>549</y><w>120</w><h>120</h></coordinates><panel_attributes>**Data**
+**Cleaning**
+bg=blue
+fg=white</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>320</x><y>569</y><w>120</w><h>120</h></coordinates><panel_attributes>**Data**
+**Transformation**
+bg=blue
+fg=white</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>220</x><y>429</y><w>120</w><h>110</h></coordinates><panel_attributes>**Data**
+**Analytics**
+bg=blue
+fg=white</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>300</x><y>259</y><w>120</w><h>110</h></coordinates><panel_attributes>**Interpretation**
+**&amp; Evaluation**
+fg=white
+bg=blue</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>680</x><y>109</y><w>120</w><h>60</h></coordinates><panel_attributes>lt=.
+Weather conditions 
+fg=blue
+bg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>800</x><y>239</y><w>120</w><h>30</h></coordinates><panel_attributes>lt=.
+Fertiliser/Weeds 
+fg=blue
+bg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>740</x><y>199</y><w>120</w><h>30</h></coordinates><panel_attributes>lt=.
+Soil fertility
+fg=blue
+bg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>480</x><y>39</y><w>120</w><h>60</h></coordinates><panel_attributes>lt=.
+The amount of
+land exploit
+fg=blue
+bg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>620</x><y>29</y><w>120</w><h>70</h></coordinates><panel_attributes>lt=.
+Number of planted
+bushes/plants 
+fg=blue
+bg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>810</x><y>389</y><w>120</w><h>60</h></coordinates><panel_attributes>lt=.
+Based on the
+relevant timeframe
+fg=blue
+bg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>760</x><y>599</y><w>80</w><h>50</h></coordinates><panel_attributes>lt=.
+Remove
+noises
+fg=blue
+bg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>710</x><y>699</y><w>90</w><h>60</h></coordinates><panel_attributes>lt=.
+Identify
+anomalies
+fg=blue
+bg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>420</x><y>719</y><w>120</w><h>30</h></coordinates><panel_attributes>lt=.
+Collect inputs
+fg=blue
+bg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>230</x><y>839</y><w>100</w><h>40</h></coordinates><panel_attributes>lt=.
+Read
+single inputs
+fg=blue
+bg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>340</x><y>769</y><w>120</w><h>70</h></coordinates><panel_attributes>lt=.
+Unified all
+inputs to the table
+fg=blue
+bg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>100</x><y>589</y><w>110</w><h>80</h></coordinates><panel_attributes>lt=.
+Go through
+analysing
+programmes
+fg=blue
+bg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>60</x><y>519</y><w>80</w><h>60</h></coordinates><panel_attributes>lt=.
+Analyse
+given data 
+fg=blue
+bg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>10</x><y>219</y><w>130</w><h>80</h></coordinates><panel_attributes>lt=.
+Presenting to
+team leaders
+analysed results
+fg=blue
+bg=red</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>10</x><y>9</y><w>130</w><h>80</h></coordinates><panel_attributes>lt=.
+Presenting to
+customers
+analysed results
+fg=blue
+bg=red</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>280</x><y>139</y><w>120</w><h>60</h></coordinates><panel_attributes>lt=.
+Interpretate
+acquired data
+fg=blue
+bg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>70</x><y>339</y><w>110</w><h>60</h></coordinates><panel_attributes>lt=.
+Evaluate
+results
+fg=blue
+bg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>170</x><y>49</y><w>110</w><h>60</h></coordinates><panel_attributes>lt=.
+Reports
+fg=blue
+bg=pink</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>140</x><y>139</y><w>110</w><h>60</h></coordinates><panel_attributes>lt=.
+Dashboards
+fg=blue
+bg=pink</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>580</x><y>219</y><w>240</w><h>90</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;70;220;10</additional_attributes></element><element><id>Relation</id><coordinates><x>580</x><y>259</y><w>300</w><h>70</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;50;280;10</additional_attributes></element><element><id>Relation</id><coordinates><x>520</x><y>89</y><w>40</w><h>170</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;150;20;10</additional_attributes></element><element><id>Relation</id><coordinates><x>550</x><y>89</y><w>150</w><h>180</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;160;130;10</additional_attributes></element><element><id>Relation</id><coordinates><x>570</x><y>159</y><w>190</w><h>130</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;110;170;10</additional_attributes></element><element><id>Relation</id><coordinates><x>710</x><y>409</y><w>120</w><h>70</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;50;100;10</additional_attributes></element><element><id>Relation</id><coordinates><x>600</x><y>629</y><w>140</w><h>100</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;120;80</additional_attributes></element><element><id>Relation</id><coordinates><x>610</x><y>589</y><w>170</w><h>50</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;150;30</additional_attributes></element><element><id>Relation</id><coordinates><x>420</x><y>659</y><w>70</w><h>80</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;50;60</additional_attributes></element><element><id>Relation</id><coordinates><x>380</x><y>679</y><w>40</w><h>110</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;20;90</additional_attributes></element><element><id>Relation</id><coordinates><x>280</x><y>669</y><w>90</w><h>190</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>70;10;10;170</additional_attributes></element><element><id>Relation</id><coordinates><x>120</x><y>479</y><w>120</w><h>70</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>100;10;10;50</additional_attributes></element><element><id>Relation</id><coordinates><x>180</x><y>529</y><w>100</w><h>90</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>80;10;10;70</additional_attributes></element><element><id>Relation</id><coordinates><x>170</x><y>319</y><w>150</w><h>70</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>130;10;10;50</additional_attributes></element><element><id>Relation</id><coordinates><x>330</x><y>189</y><w>50</w><h>90</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>30;70;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>260</x><y>89</y><w>90</w><h>70</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;70;50</additional_attributes></element><element><id>Relation</id><coordinates><x>240</x><y>169</y><w>70</w><h>40</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;50;20</additional_attributes></element><element><id>Relation</id><coordinates><x>130</x><y>189</y><w>80</w><h>80</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;60;60;10</additional_attributes></element><element><id>Relation</id><coordinates><x>130</x><y>39</y><w>80</w><h>40</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;60;20</additional_attributes></element><element><id>Relation</id><coordinates><x>60</x><y>79</y><w>130</w><h>160</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;140;110;10</additional_attributes></element><element><id>Relation</id><coordinates><x>430</x><y>600</y><w>90</w><h>50</h></coordinates><panel_attributes>lt=&lt;..</panel_attributes><additional_attributes>10;30;70;10</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>410</x><y>99</y><w>120</w><h>60</h></coordinates><panel_attributes>lt=.
+Evaluate
+acquired data
+fg=blue
+bg=yellow</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>470</x><y>149</y><w>50</w><h>120</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>30;100;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>590</x><y>510</y><w>70</w><h>80</h></coordinates><panel_attributes>lt=&lt;..</panel_attributes><additional_attributes>10;60;50;10</additional_attributes></element><element><id>Relation</id><coordinates><x>280</x><y>350</y><w>70</w><h>100</h></coordinates><panel_attributes>lt=&lt;..</panel_attributes><additional_attributes>50;10;10;80</additional_attributes></element><element><id>Relation</id><coordinates><x>390</x><y>350</y><w>80</w><h>80</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>60;60;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>560</x><y>330</y><w>90</w><h>110</h></coordinates><panel_attributes>lt=&lt;..</panel_attributes><additional_attributes>70;90;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>300</x><y>520</y><w>70</w><h>80</h></coordinates><panel_attributes>lt=&lt;..</panel_attributes><additional_attributes>10;10;50;60</additional_attributes></element><element><id>UMLActor</id><coordinates><x>0</x><y>719</y><w>80</w><h>120</h></coordinates><panel_attributes>Jeremy
+TheAnalyst
+fg=black
+bg=black</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLActor</id><coordinates><x>760</x><y>479</y><w>80</w><h>120</h></coordinates><panel_attributes>Jeremy
+TheSelector
+fg=green
+bg=green</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLActor</id><coordinates><x>880</x><y>629</y><w>80</w><h>120</h></coordinates><panel_attributes>Jeremy
+TheCleaner
+fg=pink
+bg=pink</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>810</x><y>640</y><w>120</w><h>80</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-
+fg=pink
+bg=pink</panel_attributes><additional_attributes>10;10;100;60</additional_attributes></element><element><id>Relation</id><coordinates><x>790</x><y>690</y><w>140</w><h>70</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-
+fg=pink
+bg=pink</panel_attributes><additional_attributes>10;50;120;10</additional_attributes></element><element><id>Relation</id><coordinates><x>480</x><y>740</y><w>190</w><h>180</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-
+fg=red
+bg=red</panel_attributes><additional_attributes>10;10;170;160</additional_attributes></element><element><id>Relation</id><coordinates><x>450</x><y>800</y><w>220</w><h>120</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-
+fg=red
+bg=red</panel_attributes><additional_attributes>10;10;200;100</additional_attributes></element><element><id>Relation</id><coordinates><x>320</x><y>850</y><w>350</w><h>70</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-
+fg=red
+bg=red</panel_attributes><additional_attributes>10;10;330;50</additional_attributes></element><element><id>Relation</id><coordinates><x>30</x><y>660</y><w>150</w><h>80</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-
+fg=black
+bg=black</panel_attributes><additional_attributes>130;10;10;60</additional_attributes></element><element><id>Relation</id><coordinates><x>30</x><y>570</y><w>80</w><h>170</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-
+fg=black
+bg=black</panel_attributes><additional_attributes>60;10;10;150</additional_attributes></element><element><id>Relation</id><coordinates><x>790</x><y>440</y><w>100</w><h>60</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-
+fg=green
+bg=green</panel_attributes><additional_attributes>80;10;10;40</additional_attributes></element><element><id>UMLActor</id><coordinates><x>180</x><y>219</y><w>80</w><h>120</h></coordinates><panel_attributes>Jeremy
+TheUltima
+fg=blue
+bg=blue</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLActor</id><coordinates><x>630</x><y>839</y><w>100</w><h>120</h></coordinates><panel_attributes>Jeremy
+TheTransformer
+fg=red
+bg=red</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>840</x><y>800</y><w>110</w><h>120</h></coordinates><panel_attributes>**Jeremy TheUltima**
+--
+He represents
+the link between
+all other Jeremias
+bg=blue
+fg=white</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>140</x><y>280</y><w>80</w><h>80</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-
+fg=blue
+bg=blue</panel_attributes><additional_attributes>10;60;60;10</additional_attributes></element><element><id>Relation</id><coordinates><x>230</x><y>190</y><w>110</w><h>120</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-
+fg=blue
+bg=blue</panel_attributes><additional_attributes>90;10;10;100</additional_attributes></element></diagram>
