@@ -19,7 +19,7 @@ Pekka: What you did yesteday. what you will do next, no problems.
 # week 1 Friday
 Hien   
 Hocine   
-Altti   
+Altti   Installed git and got ssh key to write publicly
 
 # week 2 Monday
 Hien   
