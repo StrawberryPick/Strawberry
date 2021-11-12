@@ -24,4 +24,4 @@ Augusts: I checked the Github and cloned the repo, and discussed with the team
 Andreas: Andreas is pushing finally
 Tomo:
 Tan:
-Augusts:
+Augusts:Created the task list, tried pushing and pulling methods
