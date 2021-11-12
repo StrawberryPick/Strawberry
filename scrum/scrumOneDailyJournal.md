@@ -22,6 +22,6 @@ Augusts: I checked the Github and cloned the repo, and discussed with the team
 
 # Week 1 Friday
 Andreas: Andreas is pushing finally
-Tomo:
+Tomo: Created the task list and uploaded it to GitHub, as well and UML file.
 Tan:
 Augusts:Created the task list, tried pushing and pulling methods
