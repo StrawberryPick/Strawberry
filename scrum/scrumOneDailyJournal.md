@@ -18,7 +18,7 @@ Tomo: We made short notes on the latest task relted to the UML project. Later on
 
 Tan: I did check the Github and tried to clone it to my computer, then will dicuss with team members about the group task
 
-Augusts
+Augusts: I checked the Github and cloned the repo, and discussed with the team
 
 # Week 1 Friday
 Andreas: Andreas is pushing finally
