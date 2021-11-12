@@ -1,0 +1,44 @@
+Data Sources
+  Data Gathering
+    After we determined what information we wanted to collect, we set a timeframe for data collection. The following step is to select a data gathering technique and then begin collecting data.
+    Result: Various tables and databases containing the data. In addition: List of data sources in md file. 
+  Evaluate gathered data
+    After we gather the data, the data needs to be evaluated before we select which information will be in analysing.
+    Result: Md document describing selected data with justification (of selection.
+
+Data Selection
+  Based on Relevant timeframe 
+    - automate data selection for daily cases to select what will be relevant to any given days crops time wise
+    Result: consolidated tables selected for relevant timelines
+
+Data Cleaning
+   Remove noise
+    Remove or rectify statistical noise, such as misinputs, missing inputs, duplicate records
+    Result: cleaned tables and DB’s
+  Identify anomalies
+    Identify anomalies in the data and decide if they are erroneous readings or worth keeping
+    Result: cleaned data and anomaly report
+
+Data Transformation
+  Collect Inputs
+    This process includes collecting all selected data after identifying anomalies removing all noises.
+   Unify all inputs to table
+    This step is based on unifying all collected data inputs into one and getting ready data for final analysing.
+  Read Single inputs
+    In this process, when we wish to evaluate a range of data values in an input field, we configure a set of rules to read every single data input. 
+Data Analytics
+  Make analysis programs
+    Create and test the analysis programs
+    Result: Working code
+  Analyse given data
+    Run the data through our analysis algorithms
+    Result: analysis system output, probably a text database
+
+Interpretation and Evaluation
+  Interpret acquired data
+    Put the analysis results in a dashboard and on the website
+    Result: Dashboards with the data
+  Evaluate results
+    Evaluate the success of our predictions and determine if the process needs improvement
+    Result: Report
+
