@@ -23,7 +23,7 @@ Altti   Installed git and got ssh key to write publicly
 # week 2 Monday
 Hien   
 Hocine   
-Altti   
+Altti   test git pull and git push
 # week 2 Tuesday
 Hien   
 Hocine   
