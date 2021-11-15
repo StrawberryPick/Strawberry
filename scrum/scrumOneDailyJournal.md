@@ -6,10 +6,10 @@ Everyone in team will write shortly here answer to Daily Scrum Meeting questions
 Every high level heading is named according to day and week. 
 
 # Week 1 Wednesday
-Andreas: Works for me
-Tomo: Alright
-Tan: The same as other
-Augusts:
+* Andreas: Works for me
+* Tomo: Alright
+* Tan: The same as other
+* Augusts:
 
 # Week 1 Thursday
 Andreas: Discussed progress with UML model diagram, will perform pull request from GitHub and meet with team about the main project document and reported no problems so far.
