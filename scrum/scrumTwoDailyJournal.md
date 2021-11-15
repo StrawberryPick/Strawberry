@@ -12,20 +12,21 @@ Hien
 Hocine   
 Altti   
 # week 1 Thursday
-Hien: Brainstorm idea what should do with the data sources
-Hocine   
+Hien: Brainstorm idea what should do with the data sources. 
+
+Hocine
 Altti   
 Pekka: What you did yesteday. what you will do next, no problems. 
 # week 1 Friday
-Hien   
+Hien: create the scripts that download data from google map, having some bugs need to be fixed
 Hocine   
-Altti   Installed git and got ssh key to write publicly
+Altti: Installed git and got ssh key to write publicly
 # week 2 Monday
 Hien   
 Hocine   
-Altti   test git pull and git push
+Altti: test git pull and git push
 # week 2 Tuesday
-Hien   
+Hien
 Hocine   
 Altti   
 # week 2 Wednesday
@@ -53,19 +54,3 @@ Altti
 Hien   
 Hocine   
 Altti   
-
-testing testing
-PS C:\Users\pekka.reijonen\Documents\DataAnalyticsDesign\Strawberry> git pull
-remote: Enumerating objects: 11, done.
-remote: Counting objects: 100% (11/11), done.
-remote: Compressing objects: 100% (2/2), done.
-remote: Total 8 (delta 6), reused 8 (delta 6), pack-reused 0
-Unpacking objects: 100% (8/8), 681 bytes | 13.00 KiB/s, done.
-From github.com:StrawberryPick/Strawberry
-   cdcf3b6..525febb  main       -> origin/main
-Updating cdcf3b6..525febb
-Fast-forward
- scrum/scrumTwoDailyJournal.md | 3 +--
- 1 file changed, 1 insertion(+), 2 deletions(-)
-PS C:\Users\pekka.reijonen\Documents\DataAnalyticsDesign\Strawberry> git pull
-Already up to date.
