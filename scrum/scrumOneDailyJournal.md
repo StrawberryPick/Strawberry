@@ -20,13 +20,13 @@ Every high level heading is named according to day and week.
 # Week 1 Friday
 * Andreas: Andreas is pushing finally
 * Tomo: Created the task list and uploaded it to GitHub, as well and UML file.
-* Tan:
+* Tan: managed to get the SSh key.
 * Augusts: Created the task list, tried pushing and pulling methods
 
 # Week 2 Monday
 * Andreas:
 * Tomo: Presentation "Sprint Review" created. Need to check some of the tools that will be requered to complete the work.
-* Tan:
+* Tan: got my work for the group task.
 * Augusts:
 
 # Week 2 Tuesday
