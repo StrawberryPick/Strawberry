@@ -53,3 +53,19 @@ Altti
 Hien   
 Hocine   
 Altti   
+
+testing testing
+PS C:\Users\pekka.reijonen\Documents\DataAnalyticsDesign\Strawberry> git pull
+remote: Enumerating objects: 11, done.
+remote: Counting objects: 100% (11/11), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 8 (delta 6), reused 8 (delta 6), pack-reused 0
+Unpacking objects: 100% (8/8), 681 bytes | 13.00 KiB/s, done.
+From github.com:StrawberryPick/Strawberry
+   cdcf3b6..525febb  main       -> origin/main
+Updating cdcf3b6..525febb
+Fast-forward
+ scrum/scrumTwoDailyJournal.md | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+PS C:\Users\pekka.reijonen\Documents\DataAnalyticsDesign\Strawberry> git pull
+Already up to date.
