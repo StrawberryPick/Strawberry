@@ -12,21 +12,21 @@ Hien
 Hocine   
 Altti   
 # week 1 Thursday
-Hien: Brainstorm idea what should do with the data sources
-Hocine   
+Hien: Brainstorm idea what should do with the data sources. 
+
+Hocine
 Altti   
 Pekka: What you did yesteday. what you will do next, no problems. 
 # week 1 Friday
-Hien   
+Hien: create the scripts that download data from google map, having some bugs need to be fixed
 Hocine   
-Altti   
-
+Altti: Installed git and got ssh key to write publicly
 # week 2 Monday
 Hien   
 Hocine   
-Altti   
+Altti: test git pull and git push
 # week 2 Tuesday
-Hien   
+Hien
 Hocine   
 Altti   
 # week 2 Wednesday
