@@ -75,5 +75,5 @@ Every high level heading is named according to day and week.
 # Week 3 Thursday
 * Andreas:
 * Tomo:
-*Tan:
+* Tan:
 * Augusts:
