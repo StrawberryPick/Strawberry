@@ -26,6 +26,7 @@ Data Transformation
     This step is based on unifying all collected data inputs into one and getting ready data for final analysing.
   Read Single inputs
     In this process, when we wish to evaluate a range of data values in an input field, we configure a set of rules to read every single data input. 
+
 Data Analytics
   Make analysis programs
     Create and test the analysis programs
