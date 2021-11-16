@@ -22,11 +22,11 @@ Hien: create the scripts that download data from google map, having some bugs ne
 Hocine   
 Altti: Installed git and got ssh key to write publicly
 # week 2 Monday
-Hien   
+Hien: create script to automatically getting url farms
 Hocine   
 Altti: test git pull and git push
 # week 2 Tuesday
-Hien
+Hien: add more methods to ScrapeReview object, download data from ggmap, and practice git pull requests
 Hocine   
 Altti   
 # week 2 Wednesday
