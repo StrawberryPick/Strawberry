@@ -2,6 +2,7 @@
 /Scripts
 *.cfg
 *.exe
+*.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
