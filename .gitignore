@@ -1,7 +1,7 @@
 # hien-evironment
 /Scripts
 *.cfg
-.exe
+*.exe
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
