@@ -37,7 +37,7 @@ Every high level heading is named according to day and week.
 
 # Week 2 Wednesday
 * Andreas:
-* Tomo:
+* Tomo: We'll be focusing on data infrastructure today.
 * Tan:
 * Augusts:
 
