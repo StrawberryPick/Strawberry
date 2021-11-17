@@ -30,8 +30,8 @@ Hien: add more methods to ScrapeReview object, download data from ggmap, and pra
 Hocine   
 Altti   
 # week 2 Wednesday
-Hien   
-Hocine   
+Hien: cleaning the data, transform data to csv format, create transform module in /code/analysis/
+Hocine
 Altti   
 # week 2 Thursday
 Hien   
