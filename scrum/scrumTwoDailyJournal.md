@@ -21,6 +21,7 @@ Pekka: What you did yesteday. what you will do next, no problems.
 Hien: create the scripts that download data from google map, having some bugs need to be fixed
 Hocine   
 Altti: Installed git and got ssh key to write publicly
+Altti   Installed git and got ssh key to write publicly
 # week 2 Monday
 Hien: create script to automatically getting url farms
 Hocine   
@@ -36,7 +37,7 @@ Altti
 # week 2 Thursday
 Hien   
 Hocine   
-Altti   
+Altti   Testing git push and pull, working on problems
 
 # week 3 Monday
 Hien   
