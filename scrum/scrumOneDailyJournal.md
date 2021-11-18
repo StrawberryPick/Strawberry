@@ -31,13 +31,13 @@ Every high level heading is named according to day and week.
 
 # Week 2 Tuesday
 * Andreas:
-* Tomo:
+* Tomo: Today, we did the 1st Sprint Review and brought a few new modifications to the project.
 * Tan:
 * Augusts:
 
 # Week 2 Wednesday
 * Andreas:
-* Tomo:
+* Tomo: We'll be focusing on data infrastructure today.
 * Tan:
 * Augusts:
 
