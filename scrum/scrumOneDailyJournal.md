@@ -43,7 +43,7 @@ Every high level heading is named according to day and week.
 
 # Week 2 Thursday
 * Andreas:
-* Tomo:
+* Tomo: Added a journal and practiced pull/push and reviewing.
 * Tan:
 * Augusts:
 
