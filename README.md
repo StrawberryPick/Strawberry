@@ -8,12 +8,12 @@ TODO: File Naming Conventions.
 General instruction on naming: use [camelCase](https://en.wikipedia.org/wiki/Camel_case)
 
 
-[Code folder readme](code\README.md)
+[Code folder readme](code/README.md)
 This folder will have all actual implementations and installation instructions and documentation for tools used.
 
-[Scrum folder readme](scrum\README.md)
+[Scrum folder readme](scrum/README.md)
 This folder will have all scrum meeting related notes
 
-[specs folder readme](specs\README.md)
+[specs folder readme](specs/README.md)
 This folder will have all spesification, requirements, planning documents
 
