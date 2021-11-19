@@ -50,7 +50,7 @@ Every high level heading is named according to day and week.
 
 # Week 2 Friday
 * Andreas:
-* Tomo:
+* Tomo: Finally, I figured out how to complete the data infrastructure.
 * Tan:
 * Augusts:Finished the ER Diagram for the excel
 
