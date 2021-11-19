@@ -30,7 +30,7 @@ transformsDateDict = {
 }
 
 
-def transformFiles(listOfJsonFiles):
+def transformFiles(dataPath, listOfJsonFiles):
 	farmInformation = list()
 
 	for file in listOfJsonFiles:
@@ -76,6 +76,7 @@ def transformFiles(listOfJsonFiles):
 		farmInformation.append(dataDict)
 
 	df = pd.DataFrame(farmInformation)
+	df = df[df['numReview'] >= df['totalReviewsLastYear']].reset_index(drop=True)
 	return df
 
 # df = transformFiles(fileList)
