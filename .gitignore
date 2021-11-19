@@ -1,5 +1,6 @@
 # hien-evironment
 /Scripts
+/share
 *.cfg
 *.exe
 *.json
