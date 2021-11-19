@@ -45,14 +45,14 @@ Every high level heading is named according to day and week.
 * Andreas:
 * Tomo: Added a journal and practiced pull/push and reviewing.
 * Tan:
-* Augusts:
+* Augusts:Learned of the Excel data sheet and started to work on the ERD
 
 
 # Week 2 Friday
 * Andreas:
 * Tomo:
 * Tan:
-* Augusts:
+* Augusts:Finished the ER Diagram for the excel
 
 # Week 3 Monday
 * Andreas:
