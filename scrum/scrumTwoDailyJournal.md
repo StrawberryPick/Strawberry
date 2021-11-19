@@ -35,7 +35,7 @@ Hien: cleaning the data, transform data to csv format, create transform module i
 Hocine
 Altti   
 # week 2 Thursday
-Hien   
+Hien: Download more data for America, and refresh knowledge with Clustering algorithm.
 Hocine   
 Altti   Testing git push and pull, working on problems
 
