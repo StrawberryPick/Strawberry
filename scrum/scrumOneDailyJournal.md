@@ -32,7 +32,7 @@ Every high level heading is named according to day and week.
 # Week 2 Tuesday
 * Andreas:
 * Tomo: Today, we did the 1st Sprint Review and brought a few new modifications to the project.
-* Tan:
+* Tan: I worked the group with the Sprint Review.
 * Augusts:
 
 # Week 2 Wednesday
@@ -51,7 +51,7 @@ Every high level heading is named according to day and week.
 # Week 2 Friday
 * Andreas:
 * Tomo: Finally, I figured out how to complete the data infrastructure.
-* Tan:
+* Tan: Working with Tomo go do the data infrastructure task.
 * Augusts:Finished the ER Diagram for the excel
 
 # Week 3 Monday
