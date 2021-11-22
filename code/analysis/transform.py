@@ -77,6 +77,7 @@ def transformFiles(dataPath, listOfJsonFiles):
 
 	df = pd.DataFrame(farmInformation)
 	df = df[df['numReview'] >= df['totalReviewsLastYear']].reset_index(drop=True)
+	df = df[df['avgRatingLastYear'] > 0]
 	return df
 
 # df = transformFiles(fileList)
