@@ -4,5 +4,5 @@ Justification:
 ## Customer Reviews
 - 
 ## Google Searching Keywords
--
+- Serching keywords does not mean 1 search 1 customer. 
 ## Forecast Rain amount
