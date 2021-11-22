@@ -22,7 +22,6 @@ for country in countries:
 	datafile = os.listdir(aPath)
 
 	df = transformFiles(aPath, datafile)
-	df = df[df['avgRatingLastYear'] > 0]
 	df['country'] = country
 
 	full_df.append(df)
@@ -33,6 +32,16 @@ X = full_df[["totalReviewsLastYear",
 	         "latestReview",
 		     "avgRatingLastYear"]]
 
+X['totalReviewsLastYear'] = (X['totalReviewsLastYear'] - X['totalReviewsLastYear'].min())\
+	/ (X['totalReviewsLastYear'].max() - X['totalReviewsLastYear'].min())
+
+X['latestReview'] = 1 - (X['latestReview'] - X['latestReview'].min())\
+	/ (X['latestReview'].max() - X['latestReview'].min())
+
+X['avgRatingLastYear'] = (X['avgRatingLastYear'] - X['avgRatingLastYear'].min())\
+	/ (X['avgRatingLastYear'].max() - X['avgRatingLastYear'].min())
+
+print(X)
 kmeans = KMeans(n_clusters=3, random_state=0)
 kmeans.fit(X)
 full_df["clusterGroup"] = kmeans.labels_
