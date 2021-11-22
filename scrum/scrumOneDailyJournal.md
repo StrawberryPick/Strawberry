@@ -56,7 +56,7 @@ Every high level heading is named according to day and week.
 
 # Week 3 Monday
 * Andreas:
-* Tomo:
+* Tomo: Found data for sunduration and UV raditaion, but no luck with rain.
 * Tan:
 * Augusts:
 
