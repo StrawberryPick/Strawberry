@@ -44,7 +44,7 @@ Every high level heading is named according to day and week.
 # Week 2 Thursday
 * Andreas:
 * Tomo: Added a journal and practiced pull/push and reviewing.
-* Tan:
+* Tan: Pratice Github
 * Augusts:Learned of the Excel data sheet and started to work on the ERD
 
 
