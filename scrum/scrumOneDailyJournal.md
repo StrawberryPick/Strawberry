@@ -62,7 +62,7 @@ Every high level heading is named according to day and week.
 
 # Week 3 Tuesday
 * Andreas:
-* Tomo:
+* Tomo: Cleaning the data.
 * Tan:
 * Augusts:
 
