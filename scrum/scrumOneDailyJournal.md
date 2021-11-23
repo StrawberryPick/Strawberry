@@ -38,13 +38,13 @@ Every high level heading is named according to day and week.
 # Week 2 Wednesday
 * Andreas:
 * Tomo: We'll be focusing on data infrastructure today.
-* Tan:
+* Tan: Same as Tomo
 * Augusts:
 
 # Week 2 Thursday
 * Andreas:
 * Tomo: Added a journal and practiced pull/push and reviewing.
-* Tan:
+* Tan: Pratice Github
 * Augusts:Learned of the Excel data sheet and started to work on the ERD
 
 
@@ -57,7 +57,7 @@ Every high level heading is named according to day and week.
 # Week 3 Monday
 * Andreas:
 * Tomo: Found data for sunduration and UV raditaion, but no luck with rain.
-* Tan:
+* Tan: Working with Tomo to find the rest of data
 * Augusts:
 
 # Week 3 Tuesday
