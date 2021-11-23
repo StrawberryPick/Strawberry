@@ -21,6 +21,7 @@ Pekka: What you did yesteday. what you will do next, no problems.
 Hien: create the scripts that download data from google map, having some bugs need to be fixed
 Hocine   
 Altti: Installed git and got ssh key to write publicly
+Altti   Installed git and got ssh key to write publicly
 # week 2 Monday
 Hien: create script to automatically getting url farms
 Hocine   
@@ -30,13 +31,13 @@ Hien: add more methods to ScrapeReview object, download data from ggmap, and pra
 Hocine   
 Altti   
 # week 2 Wednesday
-Hien   
-Hocine   
+Hien: cleaning the data, transform data to csv format, create transform module in /code/analysis/
+Hocine
 Altti   
 # week 2 Thursday
-Hien   
+Hien: Download more data for America, and refresh knowledge with Clustering algorithm.
 Hocine   
-Altti   
+Altti   Testing git push and pull, working on problems
 
 # week 3 Monday
 Hien   
