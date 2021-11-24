@@ -2,8 +2,8 @@ import json as js
 import os
 import pandas as pd
 
-# dataPath = "./code/data/England/"
-# fileList = os.listdir(dataPath)
+dataPath = "./code/data/America/"
+fileList = os.listdir(dataPath)
 
 transformsDateDict = {
 	"11 months ago": 11,
@@ -80,6 +80,45 @@ def transformFiles(dataPath, listOfJsonFiles):
 	df = df[df['avgRatingLastYear'] > 0]
 	return df
 
-# df = transformFiles(fileList)
 
-# print(df)
+def readLastYearFromAllFiles(dataPath, listOfJsonFiles):
+	farmInformation = list()
+
+	fullReviewDf = list()
+
+	for file in listOfJsonFiles:
+		path = dataPath + file
+		fp = open(path, "r")
+
+		data = js.load(fp)
+
+		farmName = data["farmName"]
+		avgRating = data["avgRating"]
+		numReview = data["numReview"]
+		createdAt = data["createdAt"]
+		reviewData = data["data"]
+
+		reviewDf = pd.DataFrame(reviewData)
+		filterDf = reviewDf[~reviewDf['date'].str.contains("year")]\
+			.reset_index(drop=True)
+
+		if filterDf.shape[0] <= 1:
+			continue
+
+		filterDf['monthsAgo'] = filterDf['date']\
+			.replace(transformsDateDict)\
+			.apply(lambda value: 0.015 if type(value) == str else value,)\
+			.astype(float)
+		filterDf['farmName'] = farmName
+		filterDf['avgRating'] = avgRating
+		filterDf['numReview'] = numReview
+		filterDf['createdAt'] = createdAt
+
+		fullReviewDf.append(filterDf)
+
+
+	fullReviewDf = pd.concat(fullReviewDf)
+	fullReviewDf = fullReviewDf.drop_duplicates(['title', 'farmName', 'body'])
+
+	return fullReviewDf[['createdAt', 'title', 'rating', 'body', 'monthsAgo',
+						 'date', 'farmName', 'avgRating', 'numReview']]
