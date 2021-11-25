@@ -4,7 +4,7 @@ Plant leaves absorb the most sunlight due to their broad shape (flattened surfac
 
 ## Modify Sunshine time data in order to have 1 value per day in hour format.
 
-- Based on data downloaded from FMI
+- Based on data downloaded from FMI https://en.ilmatieteenlaitos.fi/download-observations 
 - Dividing length of time with 60 – as data was given in minutes of sunlight within one given hour
 - Summarizing all hours in one day (sum of 24 characters per day)
 - From 8760 summarizing to 365 rows
