@@ -32,48 +32,48 @@ Every high level heading is named according to day and week.
 # Week 2 Tuesday
 * Andreas:
 * Tomo: Today, we did the 1st Sprint Review and brought a few new modifications to the project.
-* Tan:
+* Tan: I worked the group with the Sprint Review.
 * Augusts:
 
 # Week 2 Wednesday
 * Andreas:
 * Tomo: We'll be focusing on data infrastructure today.
-* Tan:
+* Tan: Same as Tomo
 * Augusts:
 
 # Week 2 Thursday
 * Andreas:
-* Tomo:
-* Tan:
-* Augusts:
+* Tomo: Added a journal and practiced pull/push and reviewing.
+* Tan: Pratice Github
+* Augusts:Learned of the Excel data sheet and started to work on the ERD
 
 
 # Week 2 Friday
 * Andreas:
-* Tomo:
-* Tan:
-* Augusts:
+* Tomo: Finally, I figured out how to complete the data infrastructure.
+* Tan: Working with Tomo go do the data infrastructure task.
+* Augusts:Finished the ER Diagram for the excel
 
 # Week 3 Monday
 * Andreas:
-* Tomo:
-* Tan:
+* Tomo: Found data for sunduration and UV raditaion, but no luck with rain.
+* Tan: Working with Tomo to find the rest of data
 * Augusts:
 
 # Week 3 Tuesday
 * Andreas:
-* Tomo:
+* Tomo: Cleaning the data.
 * Tan:
 * Augusts:
 
 # Week 3 Wednesday
 * Andreas:
-* Tomo:
+* Tomo: We finally did transfromation of data.
 * Tan:
 * Augusts:
 
 # Week 3 Thursday
 * Andreas:
-* Tomo:
+* Tomo: Sprint Review Week 3 presentation - done.
 * Tan:
 * Augusts:
