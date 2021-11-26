@@ -8,7 +8,7 @@ import json as js
 
 class RainPredictionScraper:
 	url_form = "https://www.foreca.fi/{}/{}/details/"
-	__chromedrive_path = 'chromedriver.exe'
+	__chromedrive_path = '../chromedriver.exe'
 
 
 	def __init__(self, city, country="Finland"):
@@ -37,14 +37,16 @@ class RainPredictionScraper:
 
 		total_rain_id, chance_rain_06_18, chance_rain_18_06 = 0, 7, 20
 		if len(rainClass) < 27:
-			total_rain_id, chance_rain_06_18, chance_rain_18_06 = 0, 1, 7
+			chance_rain_06_18, chance_rain_18_06 = [
+				i + 1 for i in range(len(rainClass[1:])) if ("%" in rainClass[i+1].text)
+			]
 
 		data = dict()
 		data["date"] = date
 		data["sunHour"] = self.__driver.find_element_by_xpath('//p[@class="daylen"]').text
 		data["sunUp"] = self.__driver.find_element_by_xpath('//p[@class="sunup"]').text
 		data["sunDown"] = self.__driver.find_element_by_xpath('//p[@class="sundown"]').text
-		
+	
 		
 		numContent = len(rainClass)
 
