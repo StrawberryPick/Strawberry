@@ -18,4 +18,4 @@ while d < 10:
 
 data = RainPrediction.getData()
 RainPrediction.closeAll()
-RainPrediction.saveData("code/RainPrediction/data/json/")
+RainPrediction.saveData("RainPrediction/data/json/")
