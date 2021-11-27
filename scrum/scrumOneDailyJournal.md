@@ -63,17 +63,17 @@ Every high level heading is named according to day and week.
 # Week 3 Tuesday
 * Andreas:
 * Tomo: Cleaning the data.
-* Tan:
+* Tan: Cleanign data
 * Augusts:
 
 # Week 3 Wednesday
 * Andreas:
 * Tomo: We finally did transfromation of data.
-* Tan:
+* Tan: Extracting the data
 * Augusts:
 
 # Week 3 Thursday
 * Andreas:
 * Tomo: Sprint Review Week 3 presentation - done.
-* Tan:
+* Tan: Finish the order code
 * Augusts:
