@@ -24,56 +24,56 @@ Every high level heading is named according to day and week.
 * Augusts: Created the task list, tried pushing and pulling methods
 
 # Week 2 Monday
-* Andreas:
+* Andreas: Preperation for Sprint Review.
 * Tomo: Presentation "Sprint Review" created. Need to check some of the tools that will be requered to complete the work.
 * Tan: got my work for the group task.
 * Augusts:
 
 # Week 2 Tuesday
-* Andreas:
+* Andreas: Sprint Review + GitHub improvments.
 * Tomo: Today, we did the 1st Sprint Review and brought a few new modifications to the project.
 * Tan: I worked the group with the Sprint Review.
 * Augusts:
 
 # Week 2 Wednesday
-* Andreas:
+* Andreas: Research for temperatures.
 * Tomo: We'll be focusing on data infrastructure today.
 * Tan: Same as Tomo
 * Augusts:
 
 # Week 2 Thursday
-* Andreas:
+* Andreas: Calculated and visualised Thermal Sum
 * Tomo: Added a journal and practiced pull/push and reviewing.
 * Tan: Pratice Github
 * Augusts:Learned of the Excel data sheet and started to work on the ERD
 
 
 # Week 2 Friday
-* Andreas:
+* Andreas: Helped team to set weekend goals.
 * Tomo: Finally, I figured out how to complete the data infrastructure.
 * Tan: Working with Tomo go do the data infrastructure task.
 * Augusts:Finished the ER Diagram for the excel
 
 # Week 3 Monday
-* Andreas:
+* Andreas: Found data for wind.
 * Tomo: Found data for sunduration and UV raditaion, but no luck with rain.
 * Tan: Working with Tomo to find the rest of data
 * Augusts:
 
 # Week 3 Tuesday
-* Andreas:
+* Andreas: Cleaning data with Tomo.
 * Tomo: Cleaning the data.
 * Tan:
 * Augusts:
 
 # Week 3 Wednesday
-* Andreas:
+* Andreas: Wrote algorithm for generating data.
 * Tomo: We finally did transfromation of data.
 * Tan:
 * Augusts:
 
 # Week 3 Thursday
-* Andreas:
+* Andreas: Sprint Review Week 3 presentation - done.
 * Tomo: Sprint Review Week 3 presentation - done.
 * Tan:
 * Augusts:
